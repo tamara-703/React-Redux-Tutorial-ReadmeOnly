@@ -1,3 +1,8 @@
+links: Week 9 - Day 3 _ Welcome to Per Scholas.html
+       Week 9 - Day 4 _ Welcome to Per Scholas.html
+
+
+
 React Redux Quick Start
 Tip What You'll Learn
 How to set up and use Redux Toolkit with React Redux
